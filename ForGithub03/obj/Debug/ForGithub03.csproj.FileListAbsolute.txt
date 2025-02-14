@@ -1,0 +1,8 @@
+C:\Users\acer\source\repos\ForGithub01\ForGithub03\bin\Debug\ForGithub03.exe.config
+C:\Users\acer\source\repos\ForGithub01\ForGithub03\bin\Debug\ForGithub03.exe
+C:\Users\acer\source\repos\ForGithub01\ForGithub03\bin\Debug\ForGithub03.pdb
+C:\Users\acer\source\repos\ForGithub01\ForGithub03\obj\Debug\ForGithub03.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ForGithub01\ForGithub03\obj\Debug\ForGithub03.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\ForGithub01\ForGithub03\obj\Debug\ForGithub03.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ForGithub01\ForGithub03\obj\Debug\ForGithub03.exe
+C:\Users\acer\source\repos\ForGithub01\ForGithub03\obj\Debug\ForGithub03.pdb
